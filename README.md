@@ -10,7 +10,7 @@
             alt="WhatsApp" /></a>
     <a target="_blank" href="mailto:contato@jefterdev.com"><img loading="lazy"
             src="https://img.shields.io/badge/-EMAIL-58d5d3?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-    <a target="_blank" title="Site" href="http://jefterdev.com/"><img loading="lazy"
+    <a target="_blank" title="Site" href="http://jefter.site/"><img loading="lazy"
             src="https://img.shields.io/badge/-Site-07161b?style=for-the-badge&logo=sitepoint&logoColor=white" /></a>
 </div>
 
@@ -26,13 +26,28 @@
 ## 🏆Competências 
 ![SKILLS](https://github.com/jefter-dev/jefter-dev/assets/63052317/6c88fcec-f66e-44ea-8261-03b75600b718)
 
+
 ## 🔎 Explorar
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
-  <a style="text-decoration: none !important;" href="https://jefterdev.com/about" target="_blank"><img alt="About me" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/about_me.png" /></a>
-  <a href="https://jefterdev.com/curriculum" target="_blank"><img alt="Curriculum" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/curriculum_page.png" /></a>
-  <a href="https://jefterdev.com/contact" target="_blank"><img alt="Contact" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/contact_page.png" /></a>
+<p align="center">
+  <a href="https://jefter.site/about">
+    <img alt="About me" width="32%" src="https://github.com/user-attachments/assets/b3fe3085-1cbb-4338-aaf4-03ece10c3c71">
+  </a>
+  <a href="https://jefter.site/curriculum">
+    <img alt="Curriculum" width="32%" src="https://github.com/user-attachments/assets/77bd6497-9e29-4ded-84ac-2441089aee32">
+  </a>
+  <a href="https://jefter.site/contact">
+    <img alt="Contact" width="32%" src="https://github.com/user-attachments/assets/c339478e-88d7-4e11-85ff-f99a83a73565">
+  </a>
+
   <br>
-  <a href="https://jefterdev.com/portfolio" target="_blank"><img title="teste" alt="Portfolio" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/portfolio.png"></a>
-  <a href="https://jefterdev.com" target="_blank"><img alt="Portfolio" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/main.png"></a>
-  <a href="https://jefterdev.com/portfolio3D" target="_blank"><img alt="Porfolio 3D" loading="lazy" width="200" height="100" decoding="async" data-nimg="1" src="https://www.jefterdev.com/images/metadata/portfolio3d.png"></a>
+
+  <a href="https://jefter.site/portfolio">
+    <img alt="Portfolio" width="32%" src="https://github.com/user-attachments/assets/f5d4af1e-5dd7-4678-ac2c-8f6b9c5273e7">
+  </a>
+  <a href="https://jefter.site">
+    <img alt="Home" width="32%" src="https://github.com/user-attachments/assets/5eab436d-2ddf-4331-bc26-bfca572b1d8a">
+  </a>
+  <a href="https://jefter.site/portfolio3D">
+    <img alt="Portfolio 3D" width="32%" src="https://github.com/user-attachments/assets/95313fcb-387a-4f55-b089-6097f1658e2a">
+  </a>
 </p>
