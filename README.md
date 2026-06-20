@@ -51,3 +51,64 @@
     <img alt="Portfolio 3D" width="32%" src="https://github.com/user-attachments/assets/95313fcb-387a-4f55-b089-6097f1658e2a">
   </a>
 </p>
+
+## 🚀 Projeto pessoal em destaque
+
+<div align="center">
+  <a href="https://github.com/jefter-dev/replayz-platform">
+    <img
+      src="https://raw.githubusercontent.com/jefter-dev/replayz-platform/main/images/logo.png"
+      alt="Replayz"
+      width="160"
+    />
+  </a>
+
+  <h3>Replayz — Plataforma de Replays Esportivos</h3>
+
+  <p>
+    Projeto pessoal autoral, idealizado e desenvolvido por mim, que reúne
+    software, infraestrutura, processamento de vídeo e dispositivos IoT em
+    uma solução completa para geração e comercialização de replays esportivos.
+  </p>
+
+  <p>
+    A plataforma integra câmeras IP, botoeiras físicas e processamento de
+    mídia para permitir que atletas encontrem, comprem e baixem os melhores
+    momentos de partidas e treinos.
+  </p>
+
+  <p>
+    <strong>
+      Java • Spring Boot • Node.js • TypeScript • Next.js • ESP32-C3 •
+      FFmpeg • Docker
+    </strong>
+  </p>
+
+  <p>
+    Repositório:
+    <a href="https://github.com/jefter-dev/replayz-platform">
+      <strong>jefter-dev/replayz-platform</strong>
+    </a>
+  </p>
+
+  <a href="https://github.com/jefter-dev/replayz-platform">
+    <img
+      src="https://img.shields.io/badge/Conhecer_o_projeto-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Conhecer o projeto"
+    />
+  </a>
+
+  <a href="https://replayz.com.br">
+    <img
+      src="https://img.shields.io/badge/Acessar_a_plataforma-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Acessar a plataforma"
+    />
+  </a>
+
+  <a href="https://replayz.com.br/proposal">
+    <img
+      src="https://img.shields.io/badge/Proposta_para_parcerias-2563EB?style=for-the-badge"
+      alt="Proposta para parcerias"
+    />
+  </a>
+</div>
